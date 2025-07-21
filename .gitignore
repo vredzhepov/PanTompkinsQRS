@@ -1,3 +1,5 @@
 examples/tests/
 .vscode/
 build/
+evaluation/.venv/
+evaluation/output/
